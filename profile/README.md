@@ -26,7 +26,7 @@ From conversion-optimized sales funnels to scalable web apps, mobile apps, and f
 - **Launch-Ready Products**: From MVP web apps to mobile platforms, built fast and lean with React, Next.js, Supabase, Firebase & more.
 - **Conversion-Driven Approach**: Every line of code and copy is designed to convert traffic into sales.
 - **Founder-Led Team**: Strategy meets execution — no fluff, just clean builds that get results.
-- **High Velocity Delivery**: Most funnel & web projects ship in under 7–14 days.
+- **High Velocity Delivery**: Most funnel & web projects ship in under 30 days.
 
 <br />
 <p align="center">
