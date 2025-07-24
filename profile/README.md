@@ -2,6 +2,12 @@
   <img src="https://i.ibb.co/N2bKGV5m/Shaw-Logo-Only-S-Transparent-BG.png" alt="YourAKShaw Logo" height="160"/>
 </p>
 
+<br />
+
+<p align="center">
+    <img src="https://i.ibb.co/PvwY2mcZ/Screenshot-from-2025-04-20-01-40-34-removebg-preview.png" alt="Screenshot from 2025-04-20"/>
+</p>
+
 <br/>
 
 # 🚀 Welcome to YourAKShaw Inc.
@@ -111,9 +117,8 @@ Stay connected with me (**Ayush Kumar Shaw**) through these channels:
 > 💬 DM **"LAUNCH"** on [Twitter](https://x.com/YourAKShaw) or [LinkedIn](https://linkedin.com/in/YourAKShaw) to start a project.
 
 ---
-
 <p align="center">
-  <img src="https://yourakshaw.com/assets/reel-banner.gif" alt="Banner" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajAzd3pwczFoY3ludW1iOXYyZWtiazlpZG1pZzg2ZXE1em9zNGR6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mXuPwP0kxQqvu0M168/giphy.gif" alt="Silicon Valley Vision GIF"/>
 </p>
 
 # 💼 YourAKShaw Inc. — Build fast, sell smarter.
