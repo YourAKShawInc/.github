@@ -22,7 +22,7 @@ From conversion-optimized sales funnels to scalable web apps, mobile apps, and f
 
 ### 💡 Why YourAKShaw?
 
-- **Done-for-You Funnels**: High-converting sales funnels ready in 5 days — copy, design, CRM, emails — everything.
+- **Done-for-You Funnels**: High-converting sales funnels ready in 20-25 days — copy, design, CRM, emails — everything.
 - **Launch-Ready Products**: From MVP web apps to mobile platforms, built fast and lean with React, Next.js, Supabase, Firebase & more.
 - **Conversion-Driven Approach**: Every line of code and copy is designed to convert traffic into sales.
 - **Founder-Led Team**: Strategy meets execution — no fluff, just clean builds that get results.
