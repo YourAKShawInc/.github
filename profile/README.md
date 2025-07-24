@@ -103,8 +103,11 @@ Stay connected with me (**Ayush Kumar Shaw**) through these channels:
 </p>
 
 <p align="center">
-  <a href="http://www.topmate.io/yourakshaw" target="_blank" ><img src="https://i.ibb.co/0ptMKH91/book-a-call-button-1024x288-removebg-preview.png" /></a>
+  <a href="http://www.topmate.io/yourakshaw">
+    <img src="https://i.ibb.co/0ptMKH91/book-a-call-button-1024x288-removebg-preview.png" />
+  </a>
 </p>
+
 
 ---
 
