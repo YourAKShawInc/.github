@@ -51,7 +51,7 @@ From conversion-optimized sales funnels to scalable web apps, mobile apps, and f
 ## 🔧 Tech Stack
 
 - **Frontend**: React.js, Next.js, Tailwind CSS, HTML5/CSS3
-- **Backend**: Supabase, Firebase, Node.js, REST/GraphQL APIs
+- **Backend**: Supabase, Firebase, Node.js, NestJS, REST/GraphQL APIs
 - **Mobile**: React Native, Expo
 - **Automation**: Zapier, Make, Calendly, ConvertKit
 - **Hosting**: Vercel, Netlify, Cloudflare
